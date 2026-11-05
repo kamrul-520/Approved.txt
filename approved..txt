@@ -6,8 +6,6 @@ akhi
 26oct - 26 novem
 1-0-3-5-4-u-0-_-a-3-5-4
 27-oct - 27novem
-1-0-3-7-6-u-0-_-a-3-7-6
-31oct to 4sep
 1-0-0-6-6-u-0-_-a-6-6
 31oct -7novem
 1-0-8-8-4-u-0-_-a-8-8-4
@@ -16,3 +14,5 @@ akhi
 2novem - 9novem
 1-0-2-3-8-u-0-_-a-2-3-8
 3nove - 10 novem
+1-0-0-6-6-u-0-_-a-6-6
+31oct-30novem
