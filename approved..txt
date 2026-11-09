@@ -8,8 +8,6 @@ akhi
 27-oct - 27novem
 1-0-8-8-4-u-0-_-a-8-8-4
 2 November - 2 December 
-1-0-8-4-4-u-0-_-a-8-4-4
-2novem - 9novem
 1-0-2-3-0-u-0-_-a-2-3-0
 3nove - 10 novem
 1-2-0-1-8-u-0-_-a-2-0-1-8
@@ -20,3 +18,5 @@ akhi
 7 nove - 14 novem
 1-0-4-5-8-u-0-_-a-4-5-8
 8novem 15novem
+1-0-4-6-9-u-0-_-a-4-6-9
+9 novem to 9 Dec 
